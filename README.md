@@ -5,7 +5,7 @@ Repositori ini hanya berisi rilis firmware SPEDO (file `.bin` dan manifest `vers
 - `version.json` — manifest versi untuk update OTA di perangkat
 - Release — file firmware `spedo-esp32.bin` / `spedo-esp32-c3.bin`
 
-**Source code bersifat privat** dan tidak ada di repositori ini.
+
 
 Alur rilis:
 1. Build firmware di repo source (privat).
